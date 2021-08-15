@@ -1,0 +1,18 @@
+h1 {
+    color: brown;
+    background-color:beige;
+    text-align:center;
+    font-size:xxx-large
+
+}
+h2{
+    color: brown;
+    background-color:beige;
+    text-align: center;
+    font-size: xxx-large;
+}
+
+* {
+    border: solid;
+   
+}
